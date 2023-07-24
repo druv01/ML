@@ -1,4 +1,4 @@
-,make,model,fuel_type,aspiration,num_of_doors,body_style,drive_wheels,engine_location,wheel_base,length,width,height,curb_weight,engine_type,num_of_cylinders,engine_size,fuel_system,compression_ratio,horsepower,peak_rpm,city_mpg,highway_mpg,price
+id,make,model,fuel_type,aspiration,num_of_doors,body_style,drive_wheels,engine_location,wheel_base,length,width,height,curb_weight,engine_type,num_of_cylinders,engine_size,fuel_system,compression_ratio,horsepower,peak_rpm,city_mpg,highway_mpg,price
 1,alfa-romero,alfa-romero  1,gas,std,two,convertible,rwd,front,93.6,169.7,66.6,50.8,2548,dohc,four,130,mpfi,9,111,5000,21,27,13495
 2,alfa-romero,alfa-romero  2,gas,std,two,convertible,rwd,front,93.6,169.7,66.6,50.8,2548,dohc,four,130,mpfi,9,111,5000,21,27,16500
 3,alfa-romero,alfa-romero  3,gas,std,two,hatchback,rwd,front,99.5,172.1,68,54.4,2823,ohcv,six,152,mpfi,9,154,5000,19,26,16500
